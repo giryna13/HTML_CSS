@@ -8,18 +8,8 @@ font-size on one element has a cascading effect on the child elements within. A 
 but this behavior of em does come with a downside.
 
 Take the following snippet of HTML:
-![screen shot 2018-09-26 at 11 53 53 am]
-<ul>
-  <li>lorem ipsum</li>
-  <li>dolor sit 
-    <ol>
-      <li>lorem ipsum</li>
-      <li>lorem ipsum</li>
-      <li>lorem ipsum</li>
-      <li>lorem ipsum</li>
-    </ol>
-  </li>
-</ul>
+
+![screen shot 2018-09-26 at 11 53 53 am](https://user-images.githubusercontent.com/17466723/46069515-5f173380-c184-11e8-97a4-f536b76c1ba7.png)
 
 This nested list isn’t the most common thing in the world but could likely appear in a page of terms and conditions or 
 some other kind of formal document.
