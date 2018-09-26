@@ -1,4 +1,4 @@
-*The Pros And Cons Of Using Em
+*The Pros And Cons Of Using Em*
 
 When working on a responsive project it’s more flexible to use relative units like em for sizing text and 
 spacing in and around elements rather than pixels. This is because this unit is relative to the font size of its parent element, 
