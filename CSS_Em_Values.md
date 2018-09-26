@@ -8,7 +8,7 @@ font-size on one element has a cascading effect on the child elements within. A 
 but this behavior of em does come with a downside.
 
 Take the following snippet of HTML:
-
+![screen shot 2018-09-26 at 11 53 53 am]
 <ul>
   <li>lorem ipsum</li>
   <li>dolor sit 
