@@ -1,0 +1,2 @@
+The rem unit is only supported from IE9 and above. If you need to support IE8 (or below) 
+then you can use a JS polyfill or provide a px fallback in the following way:
