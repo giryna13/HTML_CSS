@@ -1,4 +1,7 @@
 The rem unit is only supported from IE9 and above. If you need to support IE8 (or below) 
 then you can use a JS polyfill or provide a px fallback in the following way:
 
-![screen shot 2018-10-01 at 2 00 54 pm](https://user-images.githubusercontent.com/17466723/46285018-8f930f00-c582-11e8-913d-acfbbe7c0c25.png)
+li {
+font-size: 24px; 
+font-size: 1.5rem;
+}
