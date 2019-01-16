@@ -14,11 +14,4 @@ The content of HTML documents can be in many different languages. To specify the
 
 We can also use the lang attribute within the page to demarcate specific elements or sections that are in a different language to the document’s primary language.
 
-`<html lang="en">`
-`<head></head>`
-<body>
-    <section lang="fr">
-        <p>Comment dites-vous "Bonjour" en Espanol?</p>
-    </section>
-</body>
-</html>`
+![screen shot 2019-01-16 at 3 22 26 pm](https://user-images.githubusercontent.com/17466723/51251719-9a8f7500-19a2-11e9-8bf3-cd63bd7eb19c.png)
