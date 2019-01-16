@@ -8,4 +8,4 @@
 1. :lang - is used to select an element based on its content language.
 
 ## :lang pseudo-class
-The content of HTML documents can be in many different languages. To specify the primary language of a document, we use the lang attribute on the root elementhttps://github.com/giryna13/HTML_CSS/issues/3#issue-399776759
+The content of HTML documents can be in many different languages. To specify the primary language of a document, we use the lang attribute on the root element `<html lang="en>`
