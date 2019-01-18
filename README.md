@@ -17,3 +17,5 @@ We can also use the lang attribute within the page to demarcate specific element
 ![screen shot 2019-01-16 at 3 22 26 pm](https://user-images.githubusercontent.com/17466723/51251719-9a8f7500-19a2-11e9-8bf3-cd63bd7eb19c.png)
 
 If we wanted to style these sections of the page differently, we could use the [lang] attribute selector to select all elements, or children of elements, with the specific language attribute.
+
+![screen shot 2019-01-16 at 3 30 31 pm](https://user-images.githubusercontent.com/17466723/51252154-c3643a00-19a3-11e9-9de5-525454e8d09c.png)
